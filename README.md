@@ -8,4 +8,6 @@ Tools and libraries used:
 - browser-jsonp (for jsonp requests)
 - underscore (only `debounce` function)
 
+Requires `npm`
+
 To use run `npm install --production` and then open index.html file.
