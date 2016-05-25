@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://api.themoviedb.org/3/search/movie?api_key=42b3e60b6636f50062f6d3579100d83f",
+  "imgBasePath" : "http://image.tmdb.org/t/p/w154"
+}
