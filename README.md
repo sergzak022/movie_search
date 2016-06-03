@@ -10,4 +10,4 @@ Tools and libraries used:
 
 Requires `npm`
 
-To use run `npm install --production` and then open index.html file in your file explorer (not in the browser using file server).
+To use run `npm install --production` and then open index.html file in your file explorer (not in a browser using file server).
